@@ -136,7 +136,7 @@ EmojiVerse-Studio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/EmojiVerse-Studio.git
+working
 ```
 
 ### 2. Open the Project
