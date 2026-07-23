@@ -6,6 +6,8 @@
 EmojiVerse Studio is a modern web application built with **HTML5, CSS3, and Vanilla JavaScript** that allows users to upload images and convert them into fun emoji creations. The project combines browser-based image processing, Canvas API, and face detection technologies to provide an interactive and visually appealing editing experience.
 
 ---
+TRY OUT THIS 
+LINK:  https://yogagowda57-spec.github.io/IMAGE-TO-EMOJI/
 
 ## ✨ Features
 
