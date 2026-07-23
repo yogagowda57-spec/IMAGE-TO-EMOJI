@@ -9,6 +9,9 @@ EmojiVerse Studio is a modern web application built with **HTML5, CSS3, and Vani
 TRY OUT THIS 
 LINK:  https://yogagowda57-spec.github.io/IMAGE-TO-EMOJI/
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/973e3130-ae41-4ae2-bb30-324a01721b70" />
+
+
 ## ✨ Features
 
 ### 😀 Emoji Mosaic
